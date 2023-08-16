@@ -1,0 +1,1 @@
+import{_ as e,o,c as r}from"./index.48b3062b.js";import{V as c}from"./VContainer.963ad6ff.js";const s={};function t(a,n){return o(),r(c)}const f=e(s,[["render",t],["__file","/Users/isaac/DEV/blogpjt/blogpjt/src/views/LogView.vue"]]);export{f as default};
