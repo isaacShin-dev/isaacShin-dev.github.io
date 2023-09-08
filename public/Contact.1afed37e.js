@@ -1,1 +1,0 @@
-import{_ as o,n as t,o as a,s as n,w as s,p as _,f as p,a as r}from"./entry.b1c899d5.js";const d={},l=e=>(_("data-v-f4a821cc"),e=e(),p(),e),f=l(()=>r("div",{class:"flex--container"},null,-1));function i(e,u){const c=t("v-container");return a(),n(c,null,{default:s(()=>[f]),_:1})}const x=o(d,[["render",i],["__scopeId","data-v-f4a821cc"]]);export{x as default};
